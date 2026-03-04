@@ -25,7 +25,7 @@ VITE_VOICE_API_KEY=
 The starter UI includes:
 - microphone permission check
 - start/stop capture controls
-- Vercel AI Elements `Persona` animation (`src/components/ai-elements/persona.tsx`)
+- ElevenLabs UI `Orb` visualization (`src/components/ui/orb.tsx`)
 - prompt simulation form
 - transcript and assistant output panels
 - lightweight event log for test runs
